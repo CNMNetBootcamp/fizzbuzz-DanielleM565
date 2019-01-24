@@ -1,0 +1,11 @@
+C:\Users\Owner\Source\Repos\fizzBuzz\program.cs\bin\Debug\netcoreapp2.1\program.cs.deps.json
+C:\Users\Owner\Source\Repos\fizzBuzz\program.cs\bin\Debug\netcoreapp2.1\program.cs.runtimeconfig.json
+C:\Users\Owner\Source\Repos\fizzBuzz\program.cs\bin\Debug\netcoreapp2.1\program.cs.runtimeconfig.dev.json
+C:\Users\Owner\Source\Repos\fizzBuzz\program.cs\bin\Debug\netcoreapp2.1\program.cs.dll
+C:\Users\Owner\Source\Repos\fizzBuzz\program.cs\bin\Debug\netcoreapp2.1\program.cs.pdb
+C:\Users\Owner\Source\Repos\fizzBuzz\program.cs\obj\Debug\netcoreapp2.1\program.cs.csprojAssemblyReference.cache
+C:\Users\Owner\Source\Repos\fizzBuzz\program.cs\obj\Debug\netcoreapp2.1\program.cs.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Source\Repos\fizzBuzz\program.cs\obj\Debug\netcoreapp2.1\program.cs.AssemblyInfoInputs.cache
+C:\Users\Owner\Source\Repos\fizzBuzz\program.cs\obj\Debug\netcoreapp2.1\program.cs.AssemblyInfo.cs
+C:\Users\Owner\Source\Repos\fizzBuzz\program.cs\obj\Debug\netcoreapp2.1\program.cs.dll
+C:\Users\Owner\Source\Repos\fizzBuzz\program.cs\obj\Debug\netcoreapp2.1\program.cs.pdb
